@@ -288,12 +288,17 @@ nav .fas{
         /* background-color: #ff004f; */
         width: 80%;
         font-size: 30px;
+        background-color: white;
+    }
+    .header-text{
+        background-color: black;
     }
     .header-text h1{
         font-size: 30px;
-        color: black;
+        color: white;
         /* margin-top: 50px; */
         margin-right: 0%;
+        background-color: black;
     }
     nav .fas{
         display: block;
